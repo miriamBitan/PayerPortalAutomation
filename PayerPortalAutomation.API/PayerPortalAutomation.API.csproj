@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PayerPortalAutomation.Application\PayerPortalAutomation.Application.csproj" />
+    <ProjectReference Include="..\PayerPortalAutomation.Automation\PayerPortalAutomation.Automation.csproj" />
+    <ProjectReference Include="..\PayerPortalAutomation.Domain\PayerPortalAutomation.Domain.csproj" />
+    <ProjectReference Include="..\PayerPortalAutomation.Infrastructure\PayerPortalAutomation.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="payer_targets.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

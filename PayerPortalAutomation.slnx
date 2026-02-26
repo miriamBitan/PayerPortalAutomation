@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PayerPortalAutomation.API/PayerPortalAutomation.API.csproj" />
+  <Project Path="PayerPortalAutomation.Application/PayerPortalAutomation.Application.csproj" />
+  <Project Path="PayerPortalAutomation.Automation/PayerPortalAutomation.Automation.csproj" />
+  <Project Path="PayerPortalAutomation.Domain/PayerPortalAutomation.Domain.csproj" />
+  <Project Path="PayerPortalAutomation.Infrastructure/PayerPortalAutomation.Infrastructure.csproj" />
+</Solution>

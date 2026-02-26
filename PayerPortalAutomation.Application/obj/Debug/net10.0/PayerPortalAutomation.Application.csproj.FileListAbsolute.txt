@@ -1,0 +1,15 @@
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\bin\Debug\net10.0\PayerPortalAutomation.Application.deps.json
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\bin\Debug\net10.0\PayerPortalAutomation.Application.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\bin\Debug\net10.0\PayerPortalAutomation.Application.pdb
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\bin\Debug\net10.0\PayerPortalAutomation.Domain.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\bin\Debug\net10.0\PayerPortalAutomation.Domain.pdb
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\PayerPortalAutomation.Application.csproj.AssemblyReference.cache
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\PayerPortalAutomation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\PayerPortalAutomation.Application.AssemblyInfoInputs.cache
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\PayerPortalAutomation.Application.AssemblyInfo.cs
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\PayerPortalAutomation.Application.csproj.CoreCompileInputs.cache
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\PayerPor.CCBE3D0B.Up2Date
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\PayerPortalAutomation.Application.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\refint\PayerPortalAutomation.Application.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\PayerPortalAutomation.Application.pdb
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Application\obj\Debug\net10.0\ref\PayerPortalAutomation.Application.dll

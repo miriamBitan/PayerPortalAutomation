@@ -1,0 +1,17 @@
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\bin\Debug\net10.0\PayerPortalAutomation.Infrastructure.deps.json
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\bin\Debug\net10.0\PayerPortalAutomation.Infrastructure.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\bin\Debug\net10.0\PayerPortalAutomation.Infrastructure.pdb
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\bin\Debug\net10.0\PayerPortalAutomation.Application.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\bin\Debug\net10.0\PayerPortalAutomation.Domain.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\bin\Debug\net10.0\PayerPortalAutomation.Application.pdb
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\bin\Debug\net10.0\PayerPortalAutomation.Domain.pdb
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\PayerPortalAutomation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\PayerPortalAutomation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\PayerPortalAutomation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\PayerPortalAutomation.Infrastructure.AssemblyInfo.cs
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\PayerPortalAutomation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\PayerPor.C9FAC665.Up2Date
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\PayerPortalAutomation.Infrastructure.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\refint\PayerPortalAutomation.Infrastructure.dll
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\PayerPortalAutomation.Infrastructure.pdb
+C:\Users\bitan\source\repos\PayerPortalAutomation\PayerPortalAutomation.Infrastructure\obj\Debug\net10.0\ref\PayerPortalAutomation.Infrastructure.dll
